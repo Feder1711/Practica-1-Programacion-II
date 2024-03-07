@@ -40,7 +40,9 @@ Este proyecto implementa un algoritmo para calcular una aproximación al número
 -java -cp bin "directorio y .archivo principal" y lo que queramos hacer (añadir o mostrar), en este caso:
 - Ejecutar los comando a continuación para utilizar el programa.
 
+	
 		java -cp bin aplicacion.Principal <numero_de_pasos>
+---------------------------------------------------------------------------------------------------------	
 		"java -cp bin aplicacion.Principal 10000"
 
 
